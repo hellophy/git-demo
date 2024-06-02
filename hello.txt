@@ -24,11 +24,3 @@ hello word!
 hello word!
 master test
 hot-fix test
-
-
-
-
-~
-~
-~
-~
